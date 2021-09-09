@@ -1,6 +1,6 @@
 {
     "name": "@figma-export/core",
-    "version": "3.3.1",
+    "version": "3.4.0-hashicorp",
     "description": "@figma-export core functionalities",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
         "access": "public"
     },
     "dependencies": {
-        "@figma-export/types": "^3.3.1",
+        "@figma-export/types": "^3.4.0-hashicorp",
         "axios": "~0.21.1",
         "figma-js": "~1.14.0",
         "p-limit": "^3.1.0"
